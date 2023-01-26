@@ -110,16 +110,16 @@ body {
     padding: 10px 0;
 }
 
+.promo__arrow {
+    margin-top: auto;
+    margin-bottom: 30px;
+    align-self: center;
+}
+
 .promo__text {
     display: block;
     font-size: 16px;
     color: #363636;
     margin-bottom: 10px;
-    align-self: center;
-}
-
-.promo__arrow {
-    margin-top: auto;
-    margin-bottom: 30px;
     align-self: center;
 }
