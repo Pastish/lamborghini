@@ -65,19 +65,19 @@ body {
 
 }
 
-.promo {
-    background-image: url("../images/promo.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-}
-
 .promo__inner {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
     text-align: center;
     padding-top: 100px;
+}
+
+.promo {
+    background-image: url("../images/promo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 .title {
